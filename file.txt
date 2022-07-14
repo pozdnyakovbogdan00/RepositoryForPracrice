@@ -4,5 +4,5 @@ Hello world file.txt from GitHub
 
 
 String in Local for conflict.
-String in GitHub for conflict.
+String in GitHub for conflict for conflict.
 
