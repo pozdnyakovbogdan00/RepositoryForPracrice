@@ -2,4 +2,7 @@
 Hello world file.txt
 Hello world file.txt from GitHub
 
+
 String in Local for conflict.
+String in GitHub for conflict.
+
