@@ -6,4 +6,6 @@ Hello world file.txt from GitHub
 String in Local for conflict.
 String in GitHub for conflict for conflict.
 
+
 ConflictLocal ConflictLocal ConflictLocal ConflictLocal ConflictLocal ConflictLocal
+ConflictGitHub ConflictGitHub ConflictGitHub ConflictGitHub ConflictGitHub ConflictGitHub ConflictGitHub ConflictGitHub 
